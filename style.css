@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+
+#favCharacter{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+}
+
+.line{
+      height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.ar {
+font-family: 'Roboto Condensed', sans-serif;
+}
